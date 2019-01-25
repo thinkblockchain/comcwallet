@@ -15,7 +15,7 @@ set(CN_CURRENCY_TICKER "COMC")
 **3. Set symbolic link to coin sources at the same level as `src`. For example:**
 
 ```
-ln -s ../cryptonote cryptonote
+ln -s ../commoditycoin cryptonote
 ```
 
 Alternative way is to create git submodule:
